@@ -28,7 +28,12 @@
 		"vscode": {
 			"extensions": [
 				"github.copilot-chat",
-				"github.copilot"
+				"github.copilot",
+				"hashicorp.terraform",
+				"ms-dotnettools.csharp",
+				"ms-azuretools.vscode-bicep",
+				"ms-dotnettools.csdevkit",
+				"Vue.volar"
 			]
 		}
 	}
